@@ -1,6 +1,6 @@
 # Hi, I'm alexbueno
 
-A full stack developer from Brasil.
+A full stack developer from Brazil.
 
 ## About Me
 
