@@ -40,5 +40,7 @@ A full stack developer from Brazil.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbueno7" />
 </a>
 
+![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&alexbueno&layout=compact&&theme=default&link="https://www.github.com/alexbueno7/") 
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
