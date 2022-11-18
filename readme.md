@@ -10,7 +10,7 @@ A full stack developer from Brasil.
 
 ## Operating System & Tools
 
-[![macOS](https://img.shields.io/badge/macOS-Mojave-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/mojave/)
+![Pop!_OS Badge](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
