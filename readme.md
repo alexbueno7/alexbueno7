@@ -1,7 +1,3 @@
-# Visitors
-
-[![](https://el-psy-congroo-counter.glitch.me/count.svg)](https://glitch.com/~el-psy-congroo-counter)
-
 # Hi, I'm alexbueno
 
 A full stack developer from Brasil.
