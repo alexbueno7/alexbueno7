@@ -4,7 +4,7 @@ A full stack developer from Brasil.
 
 ## About Me
 
-- 🌱 I’m currently work at my company Black Katz with development of cloud and e-commerce systems.
+- 🌱 I’m currently work at Black Katz with development of cloud and e-commerce systems.
 
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:alexsandrofbueno@gmail.com) [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/Alex_Bueno_7)
 
