@@ -24,9 +24,5 @@ A full stack developer from Brasil.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbueno7" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@alexbueno7" />
-</a>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
