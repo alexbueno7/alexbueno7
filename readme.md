@@ -5,5 +5,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbueno7" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=alexbueno7" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@alexbueno7" />
 </a>
