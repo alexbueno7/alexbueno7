@@ -41,7 +41,7 @@ A full stack developer from Brazil.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-667%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-667%20hrs%2056%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -92,5 +92,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/01/2023 08:27:22 UTC
+ Last Updated on 17/01/2023 16:28:56 UTC
 <!--END_SECTION:waka-->
