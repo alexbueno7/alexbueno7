@@ -41,7 +41,7 @@ A full stack developer from Brazil.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-789%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-788%20hrs%2031%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -70,10 +70,11 @@ Sunday                   50 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-PHP                      24 mins             █████████████████████████   100.00 % 
+PHP                      54 mins             ███████████████████████░░   92.58 % 
+CSS                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
 
 💻 Operating System: 
-Linux                    24 mins             █████████████████████████   100.00 % 
+Linux                    58 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -88,5 +89,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2023 01:19:08 UTC
+ Last Updated on 29/08/2023 08:26:26 UTC
 <!--END_SECTION:waka-->
