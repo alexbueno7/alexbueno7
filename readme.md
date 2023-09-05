@@ -33,9 +33,12 @@ A full stack developer from Brazil.
 
 ## Stats
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexbueno7)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbueno7&hide_progress=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alexbueno7" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexbueno7&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-790%20hrs%2011%20mins-blue)
