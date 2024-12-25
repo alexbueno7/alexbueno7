@@ -70,12 +70,10 @@ Sunday                   91 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               4 hrs 8 mins        █████████████████████████   99.64 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 9 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -91,5 +89,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/12/2024 01:50:49 UTC
+ Last Updated on 25/12/2024 08:33:35 UTC
 <!--END_SECTION:waka-->
