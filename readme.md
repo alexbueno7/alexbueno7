@@ -11,6 +11,7 @@ A full stack developer from Brazil.
 ## Operating System & Tools
 
 ![Pop!_OS Badge](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff&style=flat)
+![MAC!_OS Badge](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
