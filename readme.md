@@ -48,7 +48,7 @@ A full stack developer from Brazil.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C345%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C350%20hrs%2050%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -77,10 +77,12 @@ Sunday                   145 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               4 hrs 55 mins       ████████████████████████░   95.53 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    5 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -96,5 +98,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/01/2026 08:40:41 UTC
+ Last Updated on 11/01/2026 16:38:29 UTC
 <!--END_SECTION:waka-->
