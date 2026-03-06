@@ -48,57 +48,20 @@ A full stack developer from Brazil.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C484%20hrs%2010%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1582 commits        █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-🌆 Daytime                4920 commits        ███████████████░░░░░░░░░░   58.07 % 
-🌃 Evening                1944 commits        ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-🌙 Night                  27 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   1420 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Tuesday                  1481 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-Wednesday                1622 commits        █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-Thursday                 1497 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-Friday                   1838 commits        █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
-Saturday                 408 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-Sunday                   207 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-TypeScript               14 hrs 23 mins      █████████████████░░░░░░░░   67.30 % 
-Bash                     4 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
-Other                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-
-💻 Operating System: 
-Linux                    21 hrs 23 mins      █████████████████████████   100.00 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C491%20hrs%2010%20mins-blue?style=flat)
 
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      41 repos            █████████████████░░░░░░░░   66.13 % 
-JavaScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+PHP                      41 repos            ████████████████░░░░░░░░░   65.08 % 
+JavaScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Blade                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 
 
 
 
- Last Updated on 06/03/2026 08:56:06 UTC
+ Last Updated on 06/03/2026 16:59:56 UTC
 <!--END_SECTION:waka-->
