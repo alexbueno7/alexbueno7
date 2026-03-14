@@ -48,7 +48,7 @@ A full stack developer from Brazil.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C507%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C505%20hrs%2039%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -100,5 +100,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/03/2026 02:49:16 UTC
+ Last Updated on 14/03/2026 08:52:02 UTC
 <!--END_SECTION:waka-->
