@@ -48,6 +48,8 @@ A full stack developer from Brazil.
 </a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C211%20hrs%2024%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -75,14 +77,14 @@ Sunday                   316 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               18 hrs 16 mins      █████████████░░░░░░░░░░░░   51.43 % 
-Markdown                 8 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
-Blade Template           2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-PHP                      1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Bash                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+TypeScript               16 hrs 9 mins       ███████████░░░░░░░░░░░░░░   43.94 % 
+Markdown                 11 hrs 30 mins      ████████░░░░░░░░░░░░░░░░░   31.30 % 
+Blade Template           2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+PHP                      1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Text                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 
 💻 Operating System: 
-Linux                    35 hrs 32 mins      █████████████████████████   100.00 % 
+Linux                    36 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -98,5 +100,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 03:34:41 UTC
+ Last Updated on 25/07/2026 10:03:18 UTC
 <!--END_SECTION:waka-->
