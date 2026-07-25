@@ -48,25 +48,23 @@ A full stack developer from Brazil.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C207%20hrs%2043%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2583 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-🌆 Daytime                8480 commits        ███████████████░░░░░░░░░░   59.01 % 
-🌃 Evening                3272 commits        ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
+🌞 Morning                2583 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+🌆 Daytime                8497 commits        ███████████████░░░░░░░░░░   59.04 % 
+🌃 Evening                3278 commits        ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
 🌙 Night                  35 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   2340 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Tuesday                  2349 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Wednesday                2851 commits        █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
-Thursday                 2443 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Friday                   3139 commits        █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-Saturday                 932 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Monday                   2340 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Tuesday                  2349 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Wednesday                2851 commits        █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+Thursday                 2443 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Friday                   3162 commits        █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+Saturday                 932 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
 Sunday                   316 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 ```
 
@@ -100,5 +98,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 17:52:05 UTC
+ Last Updated on 25/07/2026 03:34:41 UTC
 <!--END_SECTION:waka-->
