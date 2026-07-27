@@ -48,25 +48,27 @@ A full stack developer from Brazil.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C211%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C086%20hrs%2029%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-798%20hrs%2045%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2583 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-🌆 Daytime                8497 commits        ███████████████░░░░░░░░░░   59.04 % 
+🌞 Morning                2583 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+🌆 Daytime                8499 commits        ███████████████░░░░░░░░░░   59.04 % 
 🌃 Evening                3278 commits        ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
 🌙 Night                  35 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   2340 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Monday                   2342 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
 Tuesday                  2349 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
 Wednesday                2851 commits        █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
 Thursday                 2443 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
 Friday                   3162 commits        █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
-Saturday                 932 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Saturday                 932 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
 Sunday                   316 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 ```
 
@@ -87,6 +89,29 @@ Text                     1 hr 24 mins        █░░░░░░░░░░�
 Linux                    36 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 36 hrs 32 mins (99.35%)
+
+✍️ 25,980 lines written by AI, 9 lines written by hand (99.97% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 102 AI Sessions, 457 AI Prompts
+
+Grok                     25,139 lines        ██████████████████████░░░   88.01 % 
+Composer                 3,424 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.97% of written lines came from AI
+📝 Concise Prompter — average 463 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -100,5 +125,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 11:40:15 UTC
+ Last Updated on 27/07/2026 17:56:12 UTC
 <!--END_SECTION:waka-->
