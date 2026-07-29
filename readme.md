@@ -48,9 +48,9 @@ A full stack developer from Brazil.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C092%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C099%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-804%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-812%20hrs%2019%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -79,36 +79,37 @@ Sunday                   316 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               14 hrs 43 mins      ███████████░░░░░░░░░░░░░░   43.13 % 
-Markdown                 11 hrs 20 mins      ████████░░░░░░░░░░░░░░░░░   33.20 % 
-JSON                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-Text                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-PHP                      1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+TypeScript               15 hrs 9 mins       ███████████░░░░░░░░░░░░░░   42.69 % 
+Markdown                 11 hrs 20 mins      ████████░░░░░░░░░░░░░░░░░   31.96 % 
+Blade Template           2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+JSON                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Other                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 💻 Operating System: 
-Linux                    34 hrs 8 mins       █████████████████████████   100.00 % 
+Linux                    35 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 hrs 48 mins (99.01%)
+⏱ AI Coding Time: 35 hrs 7 mins (98.97%)
 
-✍️ 30,958 lines written by AI, 9 lines written by hand (99.97% AI-written)
+✍️ 30,567 lines written by AI, 9 lines written by hand (99.97% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 110,238 Input Tokens, 4,562 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.40 Estimated AI Cost This Week
 
-🧠 102 AI Sessions, 441 AI Prompts
+🧠 92 AI Sessions, 435 AI Prompts
 
-Grok                     25,488 lines        ████████████████████████░   97.46 % 
-Composer                 665 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Grok                     24,038 lines        ███████████████████████░░   91.84 % 
+Composer                 1,561 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Opus                     575 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.97% of written lines came from AI
-📝 Concise Prompter — average 460 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 408 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
@@ -125,5 +126,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 03:30:05 UTC
+ Last Updated on 29/07/2026 10:52:51 UTC
 <!--END_SECTION:waka-->
