@@ -79,38 +79,37 @@ Sunday                   316 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               14 hrs 5 mins       ████████████░░░░░░░░░░░░░   47.24 % 
-Markdown                 5 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-Blade Template           5 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-CSS                      1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+TypeScript               12 hrs 52 mins      ███████████████░░░░░░░░░░   59.01 % 
+Blade Template           3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Markdown                 2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 
 💻 Operating System: 
-Linux                    29 hrs 49 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 37 mins (99.33%)
+⏱ AI Coding Time: 21 hrs 41 mins (99.38%)
 
-✍️ 21,420 lines written by AI, 12 lines written by hand (99.94% AI-written)
+✍️ 18,743 lines written by AI, 10 lines written by hand (99.95% AI-written)
 
-🔤 5,625,750 Input Tokens, 59,240 Output Tokens
+🔤 5,515,512 Input Tokens, 54,678 Output Tokens
 
-💵 $17.77 Estimated AI Cost This Week
+💵 $17.37 Estimated AI Cost This Week
 
-🧠 56 AI Sessions, 314 AI Prompts
+🧠 37 AI Sessions, 228 AI Prompts
 
-Composer                 20,742 lines        ███████████████████████░░   91.21 % 
-Grok                     1,314 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-Opus                     686 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Composer                 19,846 lines        █████████████████████████   99.44 % 
+Opus                     111 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📝 Concise Prompter — average 467 characters per prompt
+🤖 AI-Driven — 99.95% of written lines came from AI
+📝 Concise Prompter — average 405 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -126,5 +125,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 03:26:52 UTC
+ Last Updated on 05/08/2026 10:50:49 UTC
 <!--END_SECTION:waka-->
