@@ -48,66 +48,9 @@ A full stack developer from Brazil.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C123%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C127%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-836%20hrs%2044%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2655 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-🌆 Daytime                8802 commits        ███████████████░░░░░░░░░░   59.24 % 
-🌃 Evening                3366 commits        ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-🌙 Night                  35 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   2493 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Tuesday                  2421 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-Wednesday                2886 commits        █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-Thursday                 2477 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Friday                   3252 commits        █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-Saturday                 1003 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-Sunday                   326 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-Markdown                 0 secs              █████████████████░░░░░░░░   67.46 % 
-Bash                     0 secs              ████████░░░░░░░░░░░░░░░░░   32.51 % 
-Prisma                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 0 secs (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 26 Input Tokens, 26 Output Tokens
-
-💵 $0.05 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 2 AI Prompts
-
-Composer                 1,393 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 194 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-840%20hrs%2059%20mins-blue?style=flat)
 
 **I Mostly Code in PHP** 
 
@@ -122,5 +65,5 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2026 08:54:53 UTC
+ Last Updated on 18/08/2026 16:46:36 UTC
 <!--END_SECTION:waka-->
