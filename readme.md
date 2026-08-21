@@ -48,9 +48,9 @@ A full stack developer from Brazil.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C138%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C144%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-851%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-857%20hrs%2037%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -79,36 +79,37 @@ Sunday                   317 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               6 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   30.86 % 
-Markdown                 5 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
-JSON                     3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Text                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-YAML                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+TypeScript               7 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.61 % 
+Markdown                 4 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+JSON                     3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Blade Template           3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+YAML                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 
 💻 Operating System: 
-Linux                    20 hrs 45 mins      █████████████████████████   100.00 % 
+Linux                    24 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 44 mins (99.98%)
+⏱ AI Coding Time: 24 hrs 16 mins (99.92%)
 
-✍️ 21,557 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 18,250 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,856,312 Input Tokens, 2,038,532 Output Tokens
+🔤 27,068,183 Input Tokens, 3,356,452 Output Tokens
 
-💵 $137.75 Estimated AI Cost This Week
+💵 $948.29 Estimated AI Cost This Week
 
-🧠 78 AI Sessions, 235 AI Prompts
+🧠 112 AI Sessions, 372 AI Prompts
 
-Gemini                   9,506 lines         ██████████░░░░░░░░░░░░░░░   39.11 % 
-Composer                 8,100 lines         ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Grok                     6,698 lines         ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+Gemini                   8,533 lines         ██████████░░░░░░░░░░░░░░░   39.45 % 
+Grok                     7,956 lines         █████████░░░░░░░░░░░░░░░░   36.78 % 
+Composer                 5,141 lines         ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 32,110 characters per prompt
+📚 Verbose Prompter — average 25,159 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -126,5 +127,5 @@ JavaScript               7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2026 08:56:56 UTC
+ Last Updated on 21/08/2026 16:49:05 UTC
 <!--END_SECTION:waka-->
