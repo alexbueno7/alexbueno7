@@ -48,70 +48,9 @@ A full stack developer from Brazil.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C144%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C152%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-857%20hrs%2037%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2639 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-🌆 Daytime                8823 commits        ███████████████░░░░░░░░░░   59.16 % 
-🌃 Evening                3432 commits        ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
-🌙 Night                  21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   2489 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Tuesday                  2435 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Wednesday                2915 commits        █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-Thursday                 2476 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Friday                   3238 commits        █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-Saturday                 1033 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Sunday                   329 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-TypeScript               5 hrs               █████████░░░░░░░░░░░░░░░░   35.78 % 
-Blade Template           2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Markdown                 1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-YAML                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-INI                      57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-
-💻 Operating System: 
-Linux                    14 hrs              █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 13 hrs 59 mins (99.9%)
-
-✍️ 3,785 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 31,158,950 Input Tokens, 1,748,954 Output Tokens
-
-💵 $1006.00 Estimated AI Cost This Week
-
-🧠 84 AI Sessions, 296 AI Prompts
-
-Grok                     3,709 lines         █████████████████░░░░░░░░   69.00 % 
-Composer                 1,666 lines         ████████░░░░░░░░░░░░░░░░░   31.00 % 
-Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,261 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-866%20hrs%208%20mins-blue?style=flat)
 
 **I Mostly Code in PHP** 
 
@@ -126,5 +65,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2026 09:03:55 UTC
+ Last Updated on 28/08/2026 00:58:23 UTC
 <!--END_SECTION:waka-->
