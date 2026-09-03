@@ -48,14 +48,14 @@ A full stack developer from Brazil.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C181%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C188%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-894%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-901%20hrs%2017%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2669 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+🌞 Morning                2670 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
 🌆 Daytime                8898 commits        ███████████████░░░░░░░░░░   59.08 % 
 🌃 Evening                3473 commits        ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
 🌙 Night                  21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
@@ -63,10 +63,10 @@ A full stack developer from Brazil.
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   2498 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Monday                   2498 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
 Tuesday                  2467 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
 Wednesday                2936 commits        █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-Thursday                 2516 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Thursday                 2517 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
 Friday                   3272 commits        █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
 Saturday                 1041 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
 Sunday                   331 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
@@ -79,40 +79,40 @@ Sunday                   331 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               21 hrs 31 mins      ██████████████░░░░░░░░░░░   56.54 % 
-Markdown                 5 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-JSON                     3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-Blade Template           2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-Bash                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+TypeScript               21 hrs 38 mins      ███████████████░░░░░░░░░░   61.25 % 
+Markdown                 6 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+JSON                     3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Bash                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+PHP                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 💻 Operating System: 
-Linux                    38 hrs 4 mins       █████████████████████████   100.00 % 
+Linux                    35 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 hrs 49 mins (99.34%)
+⏱ AI Coding Time: 35 hrs 9 mins (99.5%)
 
-✍️ 24,808 lines written by AI, 83 lines written by hand (99.67% AI-written)
+✍️ 20,339 lines written by AI, 79 lines written by hand (99.61% AI-written)
 
-🔤 138,008,740 Input Tokens, 2,548,095 Output Tokens
+🔤 59,954,359 Input Tokens, 2,549,847 Output Tokens
 
-💵 $532.23 Estimated AI Cost This Week
+💵 $434.08 Estimated AI Cost This Week
 
-🧠 276 AI Sessions, 603 AI Prompts
+🧠 219 AI Sessions, 506 AI Prompts
 
-Composer                 13,652 lines        ███████████████░░░░░░░░░░   58.80 % 
-Grok                     8,234 lines         █████████░░░░░░░░░░░░░░░░   35.46 % 
-GPT                      751 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Gemini                   436 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Qwen                     145 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Composer                 12,958 lines        ████████████████░░░░░░░░░   63.72 % 
+Grok                     6,016 lines         ███████░░░░░░░░░░░░░░░░░░   29.58 % 
+GPT                      1,346 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Gemini                   17 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.67% of written lines came from AI
-📚 Verbose Prompter — average 10,476 characters per prompt
+🤖 AI-Driven — 99.61% of written lines came from AI
+📚 Verbose Prompter — average 12,418 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.71% of changed lines were hand-edited
+🚀 High AI Trust — 2.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -128,5 +128,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 04:14:53 UTC
+ Last Updated on 03/09/2026 12:54:51 UTC
 <!--END_SECTION:waka-->
