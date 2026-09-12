@@ -48,48 +48,9 @@ A full stack developer from Brazil.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C190%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C190%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-903%20hrs%2011%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2690 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-🌆 Daytime                8940 commits        ███████████████░░░░░░░░░░   59.02 % 
-🌃 Evening                3496 commits        ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-🌙 Night                  21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   2503 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Tuesday                  2475 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Wednesday                2951 commits        █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-Thursday                 2542 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Friday                   3298 commits        █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
-Saturday                 1044 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-Sunday                   334 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-903%20hrs%2024%20mins-blue?style=flat)
 
 **I Mostly Code in PHP** 
 
@@ -104,5 +65,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 04:24:15 UTC
+ Last Updated on 12/09/2026 12:13:46 UTC
 <!--END_SECTION:waka-->
