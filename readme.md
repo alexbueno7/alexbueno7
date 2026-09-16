@@ -48,14 +48,14 @@ A full stack developer from Brazil.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C192%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C200%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-906%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-915%20hrs%2010%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2702 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+🌞 Morning                2703 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
 🌆 Daytime                8953 commits        ███████████████░░░░░░░░░░   58.94 % 
 🌃 Evening                3513 commits        ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
 🌙 Night                  21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
@@ -65,8 +65,8 @@ A full stack developer from Brazil.
 ```text
 Monday                   2538 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
 Tuesday                  2480 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Wednesday                2951 commits        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Thursday                 2542 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Wednesday                2952 commits        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+Thursday                 2542 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
 Friday                   3298 commits        █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
 Saturday                 1045 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
 Sunday                   335 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
@@ -79,36 +79,37 @@ Sunday                   335 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               16 hrs 10 mins      █████████████████░░░░░░░░   67.44 % 
-Markdown                 4 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-YAML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Text                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+TypeScript               18 hrs 16 mins      ████████████████░░░░░░░░░   62.01 % 
+Markdown                 4 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Other                    1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+YAML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 💻 Operating System: 
-Linux                    23 hrs 59 mins      █████████████████████████   100.00 % 
+Linux                    29 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 59 mins (99.97%)
+⏱ AI Coding Time: 29 hrs 28 mins (99.98%)
 
-✍️ 16,144 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 27,745 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 31,856,094 Input Tokens, 2,718,934 Output Tokens
+🔤 42,111,159 Input Tokens, 3,685,692 Output Tokens
 
-💵 $375.29 Estimated AI Cost This Week
+💵 $389.30 Estimated AI Cost This Week
 
-🧠 133 AI Sessions, 291 AI Prompts
+🧠 190 AI Sessions, 563 AI Prompts
 
-GPT                      16,289 lines        ████████████████████████░   96.34 % 
-Composer                 619 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+GPT                      25,534 lines        ██████████████████████░░░   87.92 % 
+Grok                     2,517 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Composer                 992 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 21,446 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📚 Verbose Prompter — average 13,614 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -125,5 +126,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 04:39:35 UTC
+ Last Updated on 16/09/2026 13:30:20 UTC
 <!--END_SECTION:waka-->
