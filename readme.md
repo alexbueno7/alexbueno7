@@ -48,14 +48,14 @@ A full stack developer from Brazil.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C210%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C216%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-928%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-936%20hrs%2016%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2716 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+🌞 Morning                2717 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
 🌆 Daytime                8982 commits        ███████████████░░░░░░░░░░   58.96 % 
 🌃 Evening                3515 commits        ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
 🌙 Night                  21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
@@ -68,7 +68,7 @@ Tuesday                  2480 commits        ████░░░░░░░�
 Wednesday                2957 commits        █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
 Thursday                 2564 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
 Friday                   3312 commits        █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-Saturday                 1045 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+Saturday                 1046 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
 Sunday                   335 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 ```
 
@@ -79,38 +79,38 @@ Sunday                   335 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               16 hrs 15 mins      ███████████░░░░░░░░░░░░░░   45.58 % 
-Markdown                 9 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
-Other                    4 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Python                   1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-Bash                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+TypeScript               19 hrs 20 mins      ███████████░░░░░░░░░░░░░░   45.64 % 
+Markdown                 10 hrs 4 mins       ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+Other                    6 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Python                   2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+JSON                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 💻 Operating System: 
-Linux                    35 hrs 39 mins      █████████████████████████   100.00 % 
+Linux                    42 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 hrs 39 mins (99.98%)
+⏱ AI Coding Time: 42 hrs 22 mins (99.99%)
 
-✍️ 27,579 lines written by AI, 1 lines written by hand (100.0% AI-written)
+✍️ 31,138 lines written by AI, 2 lines written by hand (99.99% AI-written)
 
-🔤 45,124,999 Input Tokens, 3,960,832 Output Tokens
+🔤 45,183,878 Input Tokens, 4,031,510 Output Tokens
 
-💵 $479.01 Estimated AI Cost This Week
+💵 $550.65 Estimated AI Cost This Week
 
-🧠 291 AI Sessions, 839 AI Prompts
+🧠 332 AI Sessions, 967 AI Prompts
 
-GPT                      20,847 lines        ██████████████████░░░░░░░   72.71 % 
-Grok                     5,844 lines         █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-Composer                 1,980 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+GPT                      22,296 lines        █████████████████░░░░░░░░   68.75 % 
+Grok                     7,874 lines         ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+Composer                 2,261 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,748 characters per prompt
+🤖 AI-Driven — 99.99% of written lines came from AI
+📚 Verbose Prompter — average 5,633 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -126,5 +126,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 04:27:20 UTC
+ Last Updated on 19/09/2026 12:32:33 UTC
 <!--END_SECTION:waka-->
