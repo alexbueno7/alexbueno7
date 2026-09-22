@@ -48,14 +48,14 @@ A full stack developer from Brazil.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C227%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C233%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-947%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-952%20hrs%2017%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2721 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+🌞 Morning                2723 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
 🌆 Daytime                9003 commits        ███████████████░░░░░░░░░░   58.92 % 
 🌃 Evening                3534 commits        ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
 🌙 Night                  21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
@@ -64,7 +64,7 @@ A full stack developer from Brazil.
 
 ```text
 Monday                   2549 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-Tuesday                  2480 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Tuesday                  2482 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
 Wednesday                2957 commits        █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
 Thursday                 2569 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
 Friday                   3313 commits        █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
@@ -79,36 +79,36 @@ Sunday                   338 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               22 hrs 39 mins      ███████████░░░░░░░░░░░░░░   42.50 % 
-Markdown                 10 hrs 42 mins      █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Other                    6 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Python                   2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-PHP                      1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+TypeScript               21 hrs 20 mins      ███████████░░░░░░░░░░░░░░   44.14 % 
+Markdown                 7 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Other                    6 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Python                   2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+JSON                     1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 💻 Operating System: 
-Linux                    53 hrs 19 mins      █████████████████████████   100.00 % 
+Linux                    48 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 hrs 13 mins (99.82%)
+⏱ AI Coding Time: 48 hrs 14 mins (99.74%)
 
-✍️ 40,648 lines written by AI, 2 lines written by hand (100.0% AI-written)
+✍️ 38,301 lines written by AI, 2 lines written by hand (99.99% AI-written)
 
-🔤 52,162,819 Input Tokens, 4,802,429 Output Tokens
+🔤 40,393,144 Input Tokens, 4,424,731 Output Tokens
 
-💵 $652.08 Estimated AI Cost This Week
+💵 $461.57 Estimated AI Cost This Week
 
-🧠 406 AI Sessions, 1226 AI Prompts
+🧠 353 AI Sessions, 1092 AI Prompts
 
-GPT                      26,679 lines        ███████████████░░░░░░░░░░   61.40 % 
-Grok                     11,339 lines        ███████░░░░░░░░░░░░░░░░░░   26.10 % 
-Composer                 5,431 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+GPT                      24,180 lines        ███████████████░░░░░░░░░░   58.95 % 
+Grok                     11,279 lines        ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+Composer                 5,561 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,959 characters per prompt
+🤖 AI-Driven — 99.99% of written lines came from AI
+📚 Verbose Prompter — average 8,466 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
@@ -126,5 +126,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 04:40:18 UTC
+ Last Updated on 22/09/2026 13:27:26 UTC
 <!--END_SECTION:waka-->
