@@ -48,15 +48,15 @@ A full stack developer from Brazil.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C233%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C236%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-952%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-956%20hrs%2019%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2723 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-🌆 Daytime                9009 commits        ███████████████░░░░░░░░░░   58.93 % 
+🌞 Morning                2724 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+🌆 Daytime                9009 commits        ███████████████░░░░░░░░░░   58.92 % 
 🌃 Evening                3535 commits        ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
 🌙 Night                  21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
@@ -65,7 +65,7 @@ A full stack developer from Brazil.
 ```text
 Monday                   2549 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 Tuesday                  2489 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Wednesday                2957 commits        █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+Wednesday                2958 commits        █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
 Thursday                 2569 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
 Friday                   3313 commits        █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
 Saturday                 1073 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
@@ -79,36 +79,36 @@ Sunday                   338 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               21 hrs 20 mins      ███████████░░░░░░░░░░░░░░   44.14 % 
-Markdown                 7 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Other                    6 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Python                   2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-JSON                     1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+TypeScript               19 hrs 40 mins      ████████████░░░░░░░░░░░░░   47.49 % 
+Markdown                 5 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Other                    4 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+JSON                     1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Python                   1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 💻 Operating System: 
-Linux                    48 hrs 21 mins      █████████████████████████   100.00 % 
+Linux                    41 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 48 hrs 14 mins (99.74%)
+⏱ AI Coding Time: 41 hrs 17 mins (99.7%)
 
-✍️ 38,301 lines written by AI, 2 lines written by hand (99.99% AI-written)
+✍️ 23,893 lines written by AI, 2 lines written by hand (99.99% AI-written)
 
-🔤 40,393,144 Input Tokens, 4,424,731 Output Tokens
+🔤 25,353,750 Input Tokens, 3,236,838 Output Tokens
 
-💵 $461.57 Estimated AI Cost This Week
+💵 $380.81 Estimated AI Cost This Week
 
-🧠 353 AI Sessions, 1092 AI Prompts
+🧠 278 AI Sessions, 768 AI Prompts
 
-GPT                      24,180 lines        ███████████████░░░░░░░░░░   58.95 % 
-Grok                     11,279 lines        ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-Composer                 5,561 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+GPT                      13,882 lines        █████████████░░░░░░░░░░░░   52.58 % 
+Grok                     7,641 lines         ███████░░░░░░░░░░░░░░░░░░   28.94 % 
+Composer                 4,877 lines         █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 8,466 characters per prompt
+📚 Verbose Prompter — average 9,651 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
@@ -126,5 +126,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 04:37:01 UTC
+ Last Updated on 23/09/2026 13:41:26 UTC
 <!--END_SECTION:waka-->
