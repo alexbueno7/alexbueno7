@@ -55,19 +55,19 @@ A full stack developer from Brazil.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2745 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-🌆 Daytime                9048 commits        ███████████████░░░░░░░░░░   58.90 % 
-🌃 Evening                3547 commits        ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
+🌞 Morning                2750 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+🌆 Daytime                9048 commits        ███████████████░░░░░░░░░░   58.88 % 
+🌃 Evening                3547 commits        ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
 🌙 Night                  21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   2549 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Monday                   2554 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
 Tuesday                  2489 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Wednesday                2969 commits        █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+Wednesday                2969 commits        █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
 Thursday                 2589 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Friday                   3352 commits        █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+Friday                   3352 commits        █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
 Saturday                 1074 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
 Sunday                   339 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 ```
@@ -79,37 +79,37 @@ Sunday                   339 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               9 hrs 22 mins       █████████████░░░░░░░░░░░░   51.07 % 
-YAML                     1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Markdown                 1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-CSS                      1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+TypeScript               8 hrs 48 mins       ████████████████░░░░░░░░░   62.54 % 
+Markdown                 1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+YAML                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Other                    53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 💻 Operating System: 
-Linux                    18 hrs 21 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 4 mins (92.93%)
+⏱ AI Coding Time: 12 hrs 52 mins (91.45%)
 
-✍️ 12,091 lines written by AI, 6 lines written by hand (99.95% AI-written)
+✍️ 10,412 lines written by AI, 6 lines written by hand (99.94% AI-written)
 
-🔤 21,737,459 Input Tokens, 2,610,801 Output Tokens
+🔤 15,796,588 Input Tokens, 2,186,585 Output Tokens
 
-💵 $594.30 Estimated AI Cost This Week
+💵 $430.48 Estimated AI Cost This Week
 
-🧠 77 AI Sessions, 217 AI Prompts
+🧠 65 AI Sessions, 189 AI Prompts
 
-GPT                      11,970 lines        ████████████████████████░   96.07 % 
-Composer                 490 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+GPT                      10,419 lines        ████████████████████████░   96.73 % 
+Composer                 352 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📚 Verbose Prompter — average 4,132 characters per prompt
+🤖 AI-Driven — 99.94% of written lines came from AI
+📚 Verbose Prompter — average 4,121 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.09% of changed lines were hand-edited
+🚀 High AI Trust — 0.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -125,5 +125,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 05:10:18 UTC
+ Last Updated on 28/09/2026 16:50:14 UTC
 <!--END_SECTION:waka-->
