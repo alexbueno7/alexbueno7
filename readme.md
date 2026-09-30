@@ -55,7 +55,7 @@ A full stack developer from Brazil.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2751 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+🌞 Morning                2752 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
 🌆 Daytime                9079 commits        ███████████████░░░░░░░░░░   58.94 % 
 🌃 Evening                3552 commits        ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
 🌙 Night                  21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
@@ -65,7 +65,7 @@ A full stack developer from Brazil.
 ```text
 Monday                   2572 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
 Tuesday                  2508 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Wednesday                2969 commits        █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+Wednesday                2970 commits        █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
 Thursday                 2589 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
 Friday                   3352 commits        █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
 Saturday                 1074 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
@@ -79,37 +79,37 @@ Sunday                   339 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               4 hrs 22 mins       █████████████░░░░░░░░░░░░   50.91 % 
-YAML                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Markdown                 55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-Other                    53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-Bash                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+YAML                     1 hr 6 mins         ███████████░░░░░░░░░░░░░░   45.03 % 
+TypeScript               43 mins             ███████░░░░░░░░░░░░░░░░░░   29.11 % 
+Bash                     32 mins             ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 💻 Operating System: 
-Linux                    8 hrs 34 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 24 mins (86.29%)
+⏱ AI Coding Time: 1 hr 18 mins (52.52%)
 
-✍️ 4,885 lines written by AI, 6 lines written by hand (99.88% AI-written)
+✍️ 431 lines written by AI, 6 lines written by hand (98.63% AI-written)
 
-🔤 8,960,274 Input Tokens, 1,009,466 Output Tokens
+🔤 2,128,881 Input Tokens, 210,664 Output Tokens
 
-💵 $198.70 Estimated AI Cost This Week
+💵 $57.09 Estimated AI Cost This Week
 
-🧠 40 AI Sessions, 129 AI Prompts
+🧠 11 AI Sessions, 48 AI Prompts
 
-GPT                      5,131 lines         █████████████████████████   99.13 % 
-Composer                 45 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+GPT                      445 lines           █████████████████████████   100.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.88% of written lines came from AI
-📚 Verbose Prompter — average 3,995 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.21% of changed lines were hand-edited
+🤖 AI-Driven — 98.63% of written lines came from AI
+📚 Verbose Prompter — average 5,645 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 2.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -125,5 +125,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 05:23:58 UTC
+ Last Updated on 30/09/2026 15:00:33 UTC
 <!--END_SECTION:waka-->
