@@ -52,6 +52,66 @@ A full stack developer from Brazil.
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-958%20hrs%203%20mins-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2699 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+🌆 Daytime                9079 commits        ███████████████░░░░░░░░░░   59.25 % 
+🌃 Evening                3525 commits        ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+🌙 Night                  21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   2532 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Tuesday                  2496 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Wednesday                2968 commits        █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+Thursday                 2588 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Friday                   3349 commits        █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+Saturday                 1064 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Sunday                   327 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Python                   1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   36.13 % 
+Markdown                 47 mins             ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
+JavaScript               38 mins             █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+Other                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+
+💻 Operating System: 
+Linux                    3 hrs 3 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 3 hrs 1 min (98.58%)
+
+✍️ 239 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,319,232 Input Tokens, 623,102 Output Tokens
+
+💵 $112.94 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 11 AI Prompts
+
+Composer                 239 lines           █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,294 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.42% of changed lines were hand-edited
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -65,5 +125,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 13:23:24 UTC
+ Last Updated on 03/10/2026 19:15:58 UTC
 <!--END_SECTION:waka-->
