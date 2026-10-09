@@ -55,21 +55,21 @@ A full stack developer from Brazil.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3064 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-🌆 Daytime                10463 commits       ██████████████░░░░░░░░░░░   57.40 % 
-🌃 Evening                4674 commits        ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-🌙 Night                  27 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+🌞 Morning                3220 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+🌆 Daytime                11118 commits       ██████████████░░░░░░░░░░░   56.73 % 
+🌃 Evening                5229 commits        ███████░░░░░░░░░░░░░░░░░░   26.68 % 
+🌙 Night                  30 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   3164 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Tuesday                  2859 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Wednesday                3422 commits        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-Thursday                 3038 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Friday                   3980 commits        █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
-Saturday                 1307 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Sunday                   458 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Monday                   3453 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Tuesday                  3045 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Wednesday                3640 commits        █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+Thursday                 3244 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Friday                   4293 commits        █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+Saturday                 1405 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Sunday                   517 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 ```
 
 
@@ -79,37 +79,37 @@ Sunday                   458 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   1 hr 6 mins         ███████████░░░░░░░░░░░░░░   45.82 % 
-Markdown                 47 mins             ████████░░░░░░░░░░░░░░░░░   32.45 % 
-Other                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Other                    15 mins             ██████████████░░░░░░░░░░░   55.58 % 
+YAML                     6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+Bash                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+PHP                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Blade Template           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 💻 Operating System: 
-Linux                    2 hrs 24 mins       █████████████████████████   100.00 % 
+Linux                    28 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 22 mins (98.2%)
+⏱ AI Coding Time: 25 mins (90.69%)
 
-✍️ 239 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 133 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 713,425 Input Tokens, 403,159 Output Tokens
+🔤 93,114 Input Tokens, 137,961 Output Tokens
 
 💵 $112.94 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 8 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
 
 Composer                 239 lines           █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,446 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.42% of changed lines were hand-edited
+📝 Concise Prompter — average 105 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -125,5 +125,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 05:58:19 UTC
+ Last Updated on 09/10/2026 15:20:40 UTC
 <!--END_SECTION:waka-->
