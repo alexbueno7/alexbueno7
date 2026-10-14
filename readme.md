@@ -1,11 +1,12 @@
 # Hi, I'm alexbueno
 
-**Senior Full Stack Engineer** · Brazil · Laravel / TypeScript · Cloud, SaaS & e-commerce at Black Katz.
+**Senior Full Stack Engineer · Founder at [Black Katz](https://www.blackkatz.com.br)** · Brazil · Laravel / TypeScript · Cloud, SaaS & e-commerce.
 
-I design systems end-to-end and own them in production: architecture, data model, APIs, UI, pipelines and the operational decisions behind them.
+I design systems end-to-end and own them in production: architecture, data model, APIs, UI, pipelines and the business decisions behind them.
 
 ## About Me
 
+- 🏢 I run Black Katz, a software studio building cloud, SaaS and e-commerce platforms for Brazilian businesses — I lead the technical direction and still write most of the core code.
 - 💼 I own the whole lifecycle: discovery, data modeling, backend, frontend, deploy and monitoring.
 - 🏗️ Focused on multi-tenant architectures, storefront/CMS platforms and business management systems.
 - 🔗 Comfortable wiring third-party APIs: payments, messaging, shipping, invoicing, DNS/CDN.
@@ -29,10 +30,11 @@ I design systems end-to-end and own them in production: architecture, data model
 
 ## Beyond Code
 
-- 🧭 Define architecture, coding standards and project structure used across the team.
+- 🧭 Set the technical direction: architecture, stack choices, coding standards and project structure for every product.
 - 🔍 Review pull requests and pair with other developers to raise the bar on quality.
 - 🧰 Maintain the base templates, CI/CD pipelines and deploy procedures every project relies on.
-- 🤝 Translate business needs into technical scope directly with clients and stakeholders.
+- 🤝 Own the client relationship end-to-end: scope, proposal, delivery and support.
+- 💰 Make the build-vs-buy, pricing and prioritization calls that keep products sustainable.
 
 ## How I Work
 
@@ -43,7 +45,7 @@ I design systems end-to-end and own them in production: architecture, data model
 
 ## Currently
 
-- 🔭 Scaling the storefront platform and SaaS base at Black Katz.
+- 🔭 Scaling Black Katz's storefront platform and SaaS base into reusable products.
 - 🌱 Going deeper on AI agent workflows and the Bun runtime.
 - 👯 Open to collaborate on open source dev tooling.
 
