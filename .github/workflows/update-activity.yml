@@ -17,6 +17,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          README_FILEPATH: readme.md
+          TARGET_FILE: readme.md
           COMMIT_MSG: "chore: update recent activity"
           MAX_LINES: 8
+          FILTER_EVENTS: "IssueCommentEvent,IssuesEvent,PullRequestEvent,ReleaseEvent,PushEvent,CreateEvent"
