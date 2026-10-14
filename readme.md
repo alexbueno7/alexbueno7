@@ -105,6 +105,11 @@ I design systems end-to-end and own them in production: architecture, data model
 ![OpenAI](https://img.shields.io/badge/LLM_APIs-412991?style=flat&logo=openai&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_APIs-0096D6?style=flat&logo=fastapi&logoColor=white)
 
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
