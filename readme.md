@@ -19,9 +19,7 @@
 - 🏬 **Multi-tenant storefront platform** — designed a single Laravel core + CMS/API so a new client site ships in hours instead of weeks, with one codebase to maintain, a theme engine and automated deploys.
 - 🧩 **SaaS foundation** — built the shared auth, payments, access control and multi-organization layer once, so every new product starts from a secure, tested base instead of re-implementing it.
 - 🏥 **Health & occupational safety systems** — modeled beneficiaries, plans, partner portals and psychosocial risk assessment with the API as source of truth, replacing spreadsheet-driven processes with auditable workflows.
-- 💬 **WhatsApp automation** — bots and notification flows on the WhatsApp Business Cloud API.
-- 💳 **Payments & invoicing** — bank slips, Pix and card flows with Brazilian gateways, plus NF-e / NFC-e emission.
-- 📦 **Shipping & logistics** — Correios integration, quotes, tracking and label generation.
+- 🇧🇷 **Brazilian integrations** — WhatsApp Business Cloud API bots, payment gateways (bank slips, Pix, cards), NF-e / NFC-e emission and Correios shipping (quotes, tracking, labels).
 - 🔗 **Tools** — URL shortener with analytics and custom domains, LLM-powered web apps, CLI and desktop utilities.
 - 🧱 **Legacy migrations** — zero-downtime moves from old PHP stacks to Laravel with DNS cutover.
 
