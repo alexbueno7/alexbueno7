@@ -1,6 +1,8 @@
 # Hi, I'm alexbueno
 
-Full stack developer from Brazil, building cloud, SaaS and e-commerce systems at Black Katz.
+**Senior Full Stack Engineer** · Brazil · Laravel / TypeScript · Cloud, SaaS & e-commerce at Black Katz.
+
+I design systems end-to-end and own them in production: architecture, data model, APIs, UI, pipelines and the operational decisions behind them.
 
 ## About Me
 
@@ -12,18 +14,25 @@ Full stack developer from Brazil, building cloud, SaaS and e-commerce systems at
 - 🐧 Linux daily driver, terminal-first, CLI tools over GUIs whenever possible.
 - 📈 Mindset: ship the simplest thing that works, measure, iterate.
 
-- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:alexsandrofbueno@gmail.com) [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://x.com/Alex_Bueno_7)
+- 📫 How to reach me [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/alexbueno7) [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:alexsandrofbueno@gmail.com) [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://x.com/Alex_Bueno_7)
 
 ## What I've Built
 
-- 🏬 **Multi-tenant storefront platform** — Laravel core + CMS/API powering institutional and e-commerce sites, with theme engine, CI/CD and automated deploys.
-- 🧩 **SaaS foundation** — authentication, payments, access control and multi-organization support, reused across products.
-- 🏥 **Health & occupational safety systems** — beneficiaries, health plans, partner portals and psychosocial risk assessment.
+- 🏬 **Multi-tenant storefront platform** — designed a single Laravel core + CMS/API so a new client site ships in hours instead of weeks, with one codebase to maintain, a theme engine and automated deploys.
+- 🧩 **SaaS foundation** — built the shared auth, payments, access control and multi-organization layer once, so every new product starts from a secure, tested base instead of re-implementing it.
+- 🏥 **Health & occupational safety systems** — modeled beneficiaries, plans, partner portals and psychosocial risk assessment with the API as source of truth, replacing spreadsheet-driven processes with auditable workflows.
 - 💬 **WhatsApp automation** — bots and notification flows on the WhatsApp Business Cloud API.
 - 💳 **Payments & invoicing** — bank slips, Pix and card flows with Brazilian gateways, plus NF-e / NFC-e emission.
 - 📦 **Shipping & logistics** — Correios integration, quotes, tracking and label generation.
 - 🔗 **Tools** — URL shortener with analytics and custom domains, LLM-powered web apps, CLI and desktop utilities.
 - 🧱 **Legacy migrations** — zero-downtime moves from old PHP stacks to Laravel with DNS cutover.
+
+## Beyond Code
+
+- 🧭 Define architecture, coding standards and project structure used across the team.
+- 🔍 Review pull requests and pair with other developers to raise the bar on quality.
+- 🧰 Maintain the base templates, CI/CD pipelines and deploy procedures every project relies on.
+- 🤝 Translate business needs into technical scope directly with clients and stakeholders.
 
 ## How I Work
 
