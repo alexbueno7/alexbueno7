@@ -1,12 +1,15 @@
 # Hi, I'm alexbueno
 
-**Senior Full Stack Engineer · Founder at [Black Katz](https://www.blackkatz.com.br)** · Brazil · Laravel / TypeScript · Cloud, SaaS & e-commerce.
+**Senior Full Stack Engineer · Founder & Director at [Black Katz](https://www.blackkatz.com.br)** · Ponta Grossa, Brazil · Laravel / TypeScript · Cloud, SaaS & e-commerce.
+
+15+ years building for the web, 12+ running my own software studio. B.Sc. in Computer Science (UEPG) and MBA in IT Management.
 
 I design systems end-to-end and own them in production: architecture, data model, APIs, UI, pipelines and the business decisions behind them.
 
 ## About Me
 
-- 🏢 I run Black Katz, a software studio building cloud, SaaS and e-commerce platforms for Brazilian businesses — I lead the technical direction and still write most of the core code.
+- 🏢 I run Black Katz, a software studio building cloud, SaaS and e-commerce platforms for Brazilian businesses since 2013 — I lead the technical direction and still write most of the core code.
+- 🎓 Former development coordinator at a state university, leading Moodle and academic systems integrations; senior programmer and support team lead at a web agency before that.
 - 💼 I own the whole lifecycle: discovery, data modeling, backend, frontend, deploy and monitoring.
 - 🏗️ Focused on multi-tenant architectures, storefront/CMS platforms and business management systems.
 - 🔗 Comfortable wiring third-party APIs: payments, messaging, shipping, invoicing, DNS/CDN.
@@ -36,6 +39,18 @@ I design systems end-to-end and own them in production: architecture, data model
 - 🤝 Own the client relationship end-to-end: scope, proposal, delivery and support.
 - 💰 Make the build-vs-buy, pricing and prioritization calls that keep products sustainable.
 
+## Experience
+
+| Period | Role |
+|---|---|
+| 2013 – now | Founder & Director · Black Katz — Soluções Web |
+| 2015 – 2018 | Development Coordinator · Universidade Estadual de Ponta Grossa (NUTEAD) |
+| 2017 – 2021 | Online Tutor · CAPES |
+| 2011 – 2015 | Senior Programmer & Support Coordinator · WebStorm Internet |
+| 2010 – 2011 | Web Design & Network Support · UEPG |
+
+🎓 MBA in IT Management (Faculdade Sant'Ana) · B.Sc. in Computer Science (UEPG) · 📄 Published: *Business Intelligence applied to e-commerce*
+
 ## How I Work
 
 - API as source of truth; validation at the boundary, constraints in the DB.
@@ -48,6 +63,8 @@ I design systems end-to-end and own them in production: architecture, data model
 - 🔭 Scaling Black Katz's storefront platform and SaaS base into reusable products.
 - 🌱 Going deeper on AI agent workflows and the Bun runtime.
 - 👯 Open to collaborate on open source dev tooling.
+- 💬 Ask me about: Laravel multi-tenant architecture, WhatsApp Business API, Brazilian payment gateways, NF-e / NFC-e.
+- 🌐 pt-BR native · English (technical).
 
 ## Operating System & Tools
 
