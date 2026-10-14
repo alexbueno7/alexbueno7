@@ -1,12 +1,42 @@
 # Hi, I'm alexbueno
 
-A full stack developer from Brazil.
+Full stack developer from Brazil, building cloud, SaaS and e-commerce systems at Black Katz.
 
 ## About Me
 
-- 🌱 I’m currently work at Black Katz with development of cloud and e-commerce systems.
+- 💼 I own the whole lifecycle: discovery, data modeling, backend, frontend, deploy and monitoring.
+- 🏗️ Focused on multi-tenant architectures, storefront/CMS platforms and business management systems.
+- 🔗 Comfortable wiring third-party APIs: payments, messaging, shipping, invoicing, DNS/CDN.
+- 🧱 Experienced migrating legacy PHP/WordPress/CodeIgniter apps to modern Laravel and Node stacks.
+- 🤖 Heavy user of AI coding agents and automation; I build my own skills, tooling and workflows around them.
+- 🐧 Linux daily driver, terminal-first, CLI tools over GUIs whenever possible.
+- 📈 Mindset: ship the simplest thing that works, measure, iterate.
 
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:alexsandrofbueno@gmail.com) [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://x.com/Alex_Bueno_7)
+
+## What I've Built
+
+- 🏬 **Multi-tenant storefront platform** — Laravel core + CMS/API powering institutional and e-commerce sites, with theme engine, CI/CD and automated deploys.
+- 🧩 **SaaS foundation** — authentication, payments, access control and multi-organization support, reused across products.
+- 🏥 **Health & occupational safety systems** — beneficiaries, health plans, partner portals and psychosocial risk assessment.
+- 💬 **WhatsApp automation** — bots and notification flows on the WhatsApp Business Cloud API.
+- 💳 **Payments & invoicing** — bank slips, Pix and card flows with Brazilian gateways, plus NF-e / NFC-e emission.
+- 📦 **Shipping & logistics** — Correios integration, quotes, tracking and label generation.
+- 🔗 **Tools** — URL shortener with analytics and custom domains, LLM-powered web apps, CLI and desktop utilities.
+- 🧱 **Legacy migrations** — zero-downtime moves from old PHP stacks to Laravel with DNS cutover.
+
+## How I Work
+
+- API as source of truth; validation at the boundary, constraints in the DB.
+- Small diffs, root-cause fixes, no speculative abstractions.
+- Every non-trivial change leaves a runnable check behind.
+- Conventional commits, GitHub Actions pipelines, reproducible deploys.
+
+## Currently
+
+- 🔭 Scaling the storefront platform and SaaS base at Black Katz.
+- 🌱 Going deeper on AI agent workflows and the Bun runtime.
+- 👯 Open to collaborate on open source dev tooling.
 
 ## Operating System & Tools
 
@@ -15,28 +45,56 @@ A full stack developer from Brazil.
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white)
 
 ## Techs
 
+**Backend**
+
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=flat&logo=fastify&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Frontend & Mobile**
+
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
-![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=flat&logo=fastify&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![TailWind Badge](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
+**Databases & Storage**
+
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
 ![Redis Badge](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![S3](https://img.shields.io/badge/S3_Object_Storage-569A31?style=flat&logo=amazons3&logoColor=white)
+
+**Infra & DevOps**
 
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
+**Integrations & APIs**
+
+![WhatsApp](https://img.shields.io/badge/WhatsApp_Business_API-25D366?style=flat&logo=whatsapp&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLM_APIs-412991?style=flat&logo=openai&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-0096D6?style=flat&logo=fastapi&logoColor=white)
 
 ## Stats
 
