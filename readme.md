@@ -15,7 +15,7 @@ I design systems end-to-end and own them in production: architecture, data model
 - 🐧 Linux daily driver, terminal-first, CLI tools over GUIs whenever possible.
 - 📈 Mindset: ship the simplest thing that works, measure, iterate.
 
-- 📫 How to reach me [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/alexbueno7) [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:alexsandrofbueno@gmail.com) [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://x.com/Alex_Bueno_7)
+- 📫 How to reach me [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/alexsandrofbueno/) [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:alexsandrofbueno@gmail.com) [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://x.com/Alex_Bueno_7)
 
 ## What I've Built
 
