@@ -1,22 +1,16 @@
 # Hi, I'm alexbueno
 
-**Senior Full Stack Engineer · Founder & Director at [Black Katz](https://www.blackkatz.com.br)** · Ponta Grossa, Brazil · Laravel / TypeScript · Cloud, SaaS & e-commerce.
+**Founder & Director at [Black Katz](https://www.blackkatz.com.br) · Full Stack Engineer** · Ponta Grossa, Brazil · Laravel / TypeScript · Cloud, SaaS & e-commerce.
 
 15+ years building for the web, 12+ running my own software studio. B.Sc. in Computer Science (UEPG) and MBA in IT Management.
-
-I design systems end-to-end and own them in production: architecture, data model, APIs, UI, pipelines and the business decisions behind them.
 
 ## About Me
 
 - 🏢 I run Black Katz, a software studio building cloud, SaaS and e-commerce platforms for Brazilian businesses since 2013 — I lead the technical direction and still write most of the core code.
-- 🎓 Former development coordinator at a state university, leading Moodle and academic systems integrations; senior programmer and support team lead at a web agency before that.
-- 💼 I own the whole lifecycle: discovery, data modeling, backend, frontend, deploy and monitoring.
+- 💼 I own systems end-to-end in production: discovery, data model, APIs, UI, pipelines and the business decisions behind them.
 - 🏗️ Focused on multi-tenant architectures, storefront/CMS platforms and business management systems.
 - 🔗 Comfortable wiring third-party APIs: payments, messaging, shipping, invoicing, DNS/CDN.
-- 🧱 Experienced migrating legacy PHP/WordPress/CodeIgniter apps to modern Laravel and Node stacks.
 - 🤖 Heavy user of AI coding agents and automation; I build my own skills, tooling and workflows around them.
-- 🐧 Linux daily driver, terminal-first, CLI tools over GUIs whenever possible.
-- 📈 Mindset: ship the simplest thing that works, measure, iterate.
 
 - 📫 How to reach me [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/alexsandrofbueno/) [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:alexsandrofbueno@gmail.com) [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://x.com/Alex_Bueno_7)
 
@@ -31,13 +25,14 @@ I design systems end-to-end and own them in production: architecture, data model
 - 🔗 **Tools** — URL shortener with analytics and custom domains, LLM-powered web apps, CLI and desktop utilities.
 - 🧱 **Legacy migrations** — zero-downtime moves from old PHP stacks to Laravel with DNS cutover.
 
-## Beyond Code
+## How I Work
 
 - 🧭 Set the technical direction: architecture, stack choices, coding standards and project structure for every product.
 - 🔍 Review pull requests and pair with other developers to raise the bar on quality.
 - 🧰 Maintain the base templates, CI/CD pipelines and deploy procedures every project relies on.
 - 🤝 Own the client relationship end-to-end: scope, proposal, delivery and support.
 - 💰 Make the build-vs-buy, pricing and prioritization calls that keep products sustainable.
+- ⚙️ API as source of truth; validation at the boundary, constraints in the DB. Small diffs, root-cause fixes, every non-trivial change leaves a runnable check behind.
 
 ## Experience
 
@@ -45,18 +40,9 @@ I design systems end-to-end and own them in production: architecture, data model
 |---|---|
 | 2013 – now | Founder & Director · Black Katz — Soluções Web |
 | 2015 – 2018 | Development Coordinator · Universidade Estadual de Ponta Grossa (NUTEAD) |
-| 2017 – 2021 | Online Tutor · CAPES |
 | 2011 – 2015 | Senior Programmer & Support Coordinator · WebStorm Internet |
-| 2010 – 2011 | Web Design & Network Support · UEPG |
 
 🎓 MBA in IT Management (Faculdade Sant'Ana) · B.Sc. in Computer Science (UEPG) · 📄 Published: *Business Intelligence applied to e-commerce*
-
-## How I Work
-
-- API as source of truth; validation at the boundary, constraints in the DB.
-- Small diffs, root-cause fixes, no speculative abstractions.
-- Every non-trivial change leaves a runnable check behind.
-- Conventional commits, GitHub Actions pipelines, reproducible deploys.
 
 ## Currently
 
