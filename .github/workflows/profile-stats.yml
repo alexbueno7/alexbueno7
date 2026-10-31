@@ -13,11 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
-      # 3D contribution calendar (animated SVG). Uses the public calendar, which
-      # already includes private contributions when "Private contributions" is on.
+      # 3D contribution calendar (animated SVG). PROFILE_TOKEN = PAT (repo, read:user)
+      # so commit/PR counts include private repos.
       - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - uses: Platane/snk@v3
         with:
