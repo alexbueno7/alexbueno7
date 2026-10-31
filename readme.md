@@ -124,7 +124,3 @@
   <img alt="Contribution snake" src="dist/snake.svg" />
 </picture>
 
-## Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
