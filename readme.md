@@ -108,6 +108,22 @@
 ![OpenAI](https://img.shields.io/badge/LLM_APIs-412991?style=flat&logo=openai&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_APIs-0096D6?style=flat&logo=fastapi&logoColor=white)
 
+## Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+  <img alt="3D contribution calendar" src="profile-3d-contrib/profile-gitblue.svg" />
+</picture>
+
+<p align="center">
+  <img height="165" alt="Streak" src="https://streak-stats.demolab.com/?user=alexbueno7&theme=github-dark-blue&hide_border=true&border_radius=8" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/snake-dark.svg" />
+  <img alt="Contribution snake" src="dist/snake.svg" />
+</picture>
+
 ## Recent Activity
 
 <!--START_SECTION:activity-->
