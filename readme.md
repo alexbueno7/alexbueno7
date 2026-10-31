@@ -110,6 +110,8 @@
 
 ## Stats
 
+<img alt="Commits, pull requests, deploys and repositories in the last 12 months" src="dist/stats.svg" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
   <img alt="3D contribution calendar" src="profile-3d-contrib/profile-green-animate.svg" />

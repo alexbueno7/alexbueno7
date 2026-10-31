@@ -25,6 +25,10 @@ jobs:
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
+      - name: Stats card (commits, PRs, deploys, repos)
+        run: .github/scripts/stats-card.sh "${{ github.repository_owner }}" dist/stats.svg
+        env:
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN }}
       - name: Commit
         run: |
           git config user.name github-actions

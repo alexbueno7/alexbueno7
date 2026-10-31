@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+# Animated stats card (commits, PRs, deploys, repos) incl. private repos. Needs GH_TOKEN with repo scope.
+set -euo pipefail
+U="${1:-alexbueno7}"; OUT="${2:-dist/stats.svg}"
+read -r C P R < <(gh api graphql -f query="{user(login:\"$U\"){contributionsCollection{totalCommitContributions totalPullRequestContributions totalRepositoriesWithContributedCommits}}}" \
+  --jq '.data.user.contributionsCollection|"\(.totalCommitContributions) \(.totalPullRequestContributions) \(.totalRepositoriesWithContributedCommits)"')
+# ponytail: first 100 repos only; paginate when owning >100.
+D=$(gh api graphql -f query='{viewer{repositories(first:100,ownerAffiliations:[OWNER,ORGANIZATION_MEMBER,COLLABORATOR]){nodes{deployments{totalCount}}}}}' \
+  --jq '[.data.viewer.repositories.nodes[].deployments.totalCount]|add')
+mkdir -p "$(dirname "$OUT")"
+card() { # x label value color delay
+  printf '<g transform="translate(%s,0)"><g class="s" style="animation-delay:%ss"><text class="v" x="100" y="78" fill="%s">%s</text><text class="l" x="100" y="108">%s</text><rect x="60" y="122" width="80" height="3" rx="1.5" fill="%s" class="b" style="animation-delay:%ss"/></g></g>' "$1" "$5" "$4" "$3" "$2" "$4" "$5"
+}
+fmt() { sed ':a;s/\B[0-9]\{3\}\>/,&/;ta' <<<"$1"; }
+cat > "$OUT" <<SVG
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="160" viewBox="0 0 800 160" role="img" aria-label="Last 12 months: $C commits, $P pull requests, $D deploys, $R repositories">
+<style>
+.v{font:700 40px 'Segoe UI',Ubuntu,sans-serif;text-anchor:middle}
+.l{font:600 13px 'Segoe UI',Ubuntu,sans-serif;fill:#8b949e;text-anchor:middle;letter-spacing:2px}
+.t{font:600 12px 'Segoe UI',Ubuntu,sans-serif;fill:#8b949e}
+.s{opacity:0;animation:up .8s ease-out forwards}
+.b{transform-box:fill-box;transform-origin:center;transform:scaleX(0);animation:grow 1s ease-out forwards}
+@keyframes up{from{opacity:0;transform:translateY(16px)}to{opacity:1}}
+@keyframes grow{to{transform:scaleX(1)}}
+@media (prefers-reduced-motion:reduce){.s,.b{animation:none;opacity:1;transform:none}}
+</style>
+<rect width="800" height="160" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text class="t" x="20" y="26">LAST 12 MONTHS · PUBLIC + PRIVATE</text>
+$(card 0 COMMITS "$(fmt "$C")" '#3fb950' 0.1)
+$(card 200 'PULL REQUESTS' "$(fmt "$P")" '#a371f7' 0.3)
+$(card 400 DEPLOYS "$(fmt "$D")" '#58a6ff' 0.5)
+$(card 600 REPOSITORIES "$(fmt "$R")" '#f78166' 0.7)
+</svg>
+SVG
+echo "$C commits, $P PRs, $D deploys, $R repos -> $OUT"
