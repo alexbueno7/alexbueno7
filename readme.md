@@ -36,7 +36,7 @@
 
 | Period | Role |
 |---|---|
-| 2013 – now | Founder & Director · Black Katz — Soluções Web |
+| 2013 – now | Founder & Director · Black Katz LTDA |
 | 2015 – 2018 | Development Coordinator · Universidade Estadual de Ponta Grossa (NUTEAD) |
 | 2011 – 2015 | Senior Programmer & Support Coordinator · WebStorm Internet |
 
